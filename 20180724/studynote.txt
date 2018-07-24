@@ -1,0 +1,14 @@
+2018.07.24
+今天浏览了一遍数据类型和运算符，这方面大致掌握了，
+于是进行了下一章流程控制与数组。
+*定义数组语法格式：
+	type[] arrayName
+	type arrayName[]
+*数组必须先初始化
+	静态初始化
+		arrayName=new type[]{element1,element2...}
+		简化的语法格式：type[] arrayName={element1,element2...}
+	动态初始化
+		arrayName=new type[length]
+*foreach循环
+运行时遇到了问题，重新安装了JDK,配置环境变量
