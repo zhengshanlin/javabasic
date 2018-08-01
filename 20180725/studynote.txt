@@ -1,0 +1,15 @@
+用VIM来写代码
+创建文件夹是mkdir
+创建文件是touch
+跳转目录是cd
+打开或者新建文件vim
+保存文件:先按esc 再输入:w  :w 保存不退出  :wq 保存退出
+提交到本地git add 然后git commit
+推到远程库git push
+git pull origin master拉下最新代码
+git push -u origin master推到远程库
+git pull -rebase origin master重构本地库
+如果遇到编译不能正确处理注释：
+则应复制原代码，把格式改为以ANSI格式编码，然后新建一个文件，把刚刚复制的代码粘贴过去，保存即可
+
+
